@@ -67,3 +67,14 @@ By the end of this workshop, participants will be able to:
 Example #1 - Predicting Fuel Efficiency
 
 
+## ⚙️ Requirements
+
+MATLAB R2023b or later
+
+Toolboxes:
+- Statistics and Machine Learning Toolbox
+- Deep Learning Toolbox
+- (Optional) Image Processing Toolbox
+- Internet connection (for prompt-based demos)
+
+
