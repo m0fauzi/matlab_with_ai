@@ -22,8 +22,7 @@ It also integrates **prompt-to-programming** workflows, showing how natural lang
 By the end of this workshop, participants will be able to:
 
 - Load, preprocess, and visualize engineering datasets in MATLAB.  
-- Train and test AI and machine learning models (classification, regression).  
-- Apply deep learning using MATLAB’s **Deep Learning Toolbox** and **transfer learning**.  
+- Train and test AI and machine learning models (classification, regression).   
 - Generate and refine MATLAB code using AI prompt-based workflows.  
 - Develop simple MATLAB Apps that integrate trained models for real-world use.  
 
@@ -36,22 +35,17 @@ By the end of this workshop, participants will be able to:
 - MATLAB’s role in AI and automation.
 - Demo: *Prompt → MATLAB Code → Model Prediction.*
 
-### 1. Working with Engineering Data (30 mins)
+### 1. Working with Engineering Data (45 mins)
 - Import, clean, and visualize data.
 - Feature preparation and normalization.
 - **Hands-on:** Generate MATLAB code using prompts to preprocess data.
 
-### 2. Machine Learning for Engineers (45 mins)
+### 2. Machine Learning for Engineers (60 mins)
 - Build regression and classification models (`fitlm`, `fitctree`, `fitcsvm`).
-- Model evaluation (`confusionchart`, `crossval`, `predict`).
-- **Hands-on:** Predict pump efficiency or student performance using AI-generated code.
+- Model evaluation (`predict`).
+- **Hands-on:** Predict Benchmark Function and fisheriris dataset using AI-generated code.
 
-### 3. Deep Learning & Image Intelligence (45 mins)
-- Neural networks and transfer learning (`resnet18`, `trainNetwork`).
-- Visualize training results and accuracy.
-- **Hands-on:** Image classification for mechanical component types.
-
-### 4. From Model to App (30 mins)
+### 3. From Model to App (30 mins)
 - Create GUI with App Designer.
 - Integrate model predictions into the app.
 - **Hands-on:** “Upload CSV → Predict → Display Results.”
@@ -59,22 +53,16 @@ By the end of this workshop, participants will be able to:
 ### 5. Wrap-Up (20 mins)
 - Recap: MATLAB + Prompt + AI workflow.
 - Tips for writing better prompts.
-- Resources for self-learning (MATLAB Onramp, Deep Learning Onramp).
+- Resources for self-learning (MATLAB- Mathworks).
 
 ---
 
-## 🧠 Demo Highlight: 
-Example #1 - Predicting Fuel Efficiency
-
-
 ## ⚙️ Requirements
 
-MATLAB R2023b or later
+MATLAB R2025b
 
 Toolboxes:
 - Statistics and Machine Learning Toolbox
-- Deep Learning Toolbox
-- (Optional) Image Processing Toolbox
 - Internet connection (for prompt-based demos)
 
-
+---
