@@ -35,7 +35,7 @@ By the end of this workshop, participants will be able to:
 - MATLAB’s role in AI and automation.
 - Demo: *Prompt → MATLAB Code → Model Prediction.*
 
-### 1. Working with Engineering Data (45 mins)
+### 1. Working with Engineering Data (50 mins)
 - Import, clean, and visualize data.
 - **Hands-on:** Generate MATLAB code using prompts to preprocess data.
 
@@ -44,7 +44,7 @@ By the end of this workshop, participants will be able to:
 - Model evaluation (`predict`).
 - **Hands-on:** Predict Benchmark Function and fisheriris dataset using AI-generated code.
 
-### 3. From Model to App (30 mins)
+### 3. From Model to App (40 mins)
 - Create GUI with App Designer.
 - Integrate model predictions into the app.
 - **Hands-on:** “Upload CSV → Predict → Display Results.”
