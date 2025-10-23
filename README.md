@@ -37,7 +37,6 @@ By the end of this workshop, participants will be able to:
 
 ### 1. Working with Engineering Data (45 mins)
 - Import, clean, and visualize data.
-- Feature preparation and normalization.
 - **Hands-on:** Generate MATLAB code using prompts to preprocess data.
 
 ### 2. Machine Learning for Engineers (60 mins)
